@@ -26,14 +26,14 @@
 
 
 
-- 🔭 I’m currently working on [Frontier Wallet](https://frontierwallet.com).
+- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
 - 🌱 I’m currently learning Golang, Rust.
-- 👯 I’m looking to collaborate on [Frontier Wallet](https://frontierwallet.com).
+- 👯 I’m looking to collaborate on [Frontier](https://frontier.xyz/).
 - 🤔 I’m looking for help with Unifront documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @ravidsrk](https://twitter.com/ravidsrk)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I spend almost 12 hours listening to songs everyday.
 
 [![Twitter: ravidsrk](https://img.shields.io/twitter/follow/ravidsrk?style=social)](https://twitter.com/ravidsrk)
 [![Linkedin: ravidsrk](https://img.shields.io/badge/-ravidsrk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravidsrk/)](https://www.linkedin.com/in/ravidsrk/)
